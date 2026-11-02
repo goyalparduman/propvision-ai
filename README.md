@@ -116,3 +116,19 @@ The suite (about 95 tests, ~2 minutes) covers validation edge cases (missing fie
 
 ## Future improvements
 Text-to-speech voice-over, hardware-accelerated encoding (VideoToolbox), background render worker, more themes and languages, logo/agent branding, per-scene photo assignment, HEIC input.
+
+**#input**
+<img width="2000" height="1000" alt="banner" src="https://github.com/user-attachments/assets/465f55ec-5b98-4576-a11b-3aff14b3c40b" />
+
+<img width="2000" height="1000" alt="banner" src="https://github.com/user-attachments/assets/41c46371-0652-4bed-89e3-edc19a4cf036" />
+
+<img width="1024" height="576" alt="luxury-white-kitchen-1024x576" src="https://github.com/user-attachments/assets/bc5c2a50-ddda-46d8-962d-430a47ec88a3" />
+<img width="1200" height="630" alt="originalfile1770366494074-7284" src="https://github.com/user-attachments/assets/9843d762-af88-4590-b07a-8ab64819768f" />
+
+**#output**
+
+
+https://github.com/user-attachments/assets/9b3d5e26-5236-42d8-a2a4-602054a5cb1f
+
+
+
